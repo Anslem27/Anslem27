@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Anslem.
 - 👀 I’m interested in mobile app development and playing hardcore first person video games.
 - 🌱 I’m currently learning Dart as well as the Flutter framework.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Anslem27/Anslem27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
