@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anslem.
-- 👀 I’m interested in mobile app development and playing hardcore first person video games.
+- 👀 I’m interested in mobile app development.
 - 🌱 I’m currently learning Dart as well as the Flutter framework.
 
 <!---
