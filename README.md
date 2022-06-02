@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Flutter and Dart**
 
-- 📫 How to reach me **anslembarn@gmail.com**
+- 📫 Reach me via email **anslembarn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
