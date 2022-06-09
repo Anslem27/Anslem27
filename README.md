@@ -6,7 +6,7 @@
 - 💬 Ask me about **Flutter and Dart**
 
 - 📫 Reach me via email **anslembarn@gmail.com**
-
+- As well as Twitter *https://twitter.com/anslemAnsy?t=_R65Xz8wfSvZ5Nyeqh3p5A&s=09*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
