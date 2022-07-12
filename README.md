@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anslem</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
-- 🌱 I’m currently learning **C, Java**
+- 🌱 I’m currently learning **C, Java, React Js**
 
 - 💬 Ask me about **Flutter and Dart**
 
 - 📫 Reach me via email **anslembarn@gmail.com**
-- As well as Twitter *https://twitter.com/anslemAnsy?t=_R65Xz8wfSvZ5Nyeqh3p5A&s=09*
+- As well as [Twitter](https://twitter.com/anslemAnsy?t=_R65Xz8wfSvZ5Nyeqh3p5A&s=09)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
