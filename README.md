@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Twitter handle](https://img.shields.io/twitter/follow/anslemAnsy?style=social)
 
-- 🔭 I’m currently working on [Drink Up](https://github.com/Anslem27/Drink-Up)
+- 🔭 I’m currently working on [Drink Up](https://github.com/Anslem27/Drink-Up) and [Gem Music](https://anslem27.github.io/Gem-Docs/)
 
 - 📫 Email: **anslembarn@gmail.com**
 
