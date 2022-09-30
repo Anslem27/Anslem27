@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anslem27&label=Profile%20views&color=0e75b6&style=flat" alt="anslem27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anslem27&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="anslem27" /> </p>
 
 ![Reddit Badge](https://img.shields.io/reddit/user-karma/link/Infamous-Date-355?style=social)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
