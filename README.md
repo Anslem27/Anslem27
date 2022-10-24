@@ -35,7 +35,7 @@
 <table width="100%">
 
  <tbody><tr>
-    <td width="60%">
+    <td width="20%">
      
 ## 🛠️ Skills
 <!-- Languages -->
@@ -56,19 +56,19 @@
 <h4 id="development"></h4><p><img alt="Flutter" data-origin="https://img.shields.io/badge/Flutter-092E20?style=flat&amp;logo=flutter&amp;logoColor=white" src="https://img.shields.io/badge/Flutter-092E20?style=flat&amp;logo=flutter&amp;logoColor=white">&nbsp;
 <img alt="Vue" data-origin="https://img.shields.io/badge/Vue-20232A?style=flat&amp;logo=vue&amp;logoColor=61DAFB" src="https://img.shields.io/badge/Vue-20232A?style=flat&amp;&amp;logoColor=61DAFB">&nbsp;
 <img alt="Javascript" data-origin="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black">&nbsp;</p> 
-   <td>
+   
   
 ## 📄📜 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anslem27&amp;theme=algolia&amp;show_icons=true&amp;bg_color=transparent&amp;title_color=navy&amp;text_color=black" width="100%">
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anslem27&amp;theme=algolia&amp;show_icons=true&amp;bg_color=transparent&amp;title_color=navy&amp;text_color=black" width="60%">
  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anslem27" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anslem27" width="60%">
  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anslem27&amp;exclude_repo=Portfolio,HomePal&amp;langs_count=7&amp;layout=compact&amp;bg_color=transparent" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anslem27&amp;exclude_repo=Portfolio,HomePal&amp;langs_count=7&amp;layout=compact&amp;bg_color=transparent" width="60%">
 </p>
      
-  </td>
+  
  </tr>
 </tbody></table>
 
