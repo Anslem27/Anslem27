@@ -1,6 +1,5 @@
+# Hey there👋, Welcome to my Github Profile.
 
-<div  data-link-title="dark"><p>.</p></div><h1 id="hey-there👋-welcome-to-my-github-profile"><a class="anchor" data-id="hey-there👋-welcome-to-my-github-profile" href="#"><span>Hey there👋, Welcome to my Github Profile</span></a></h1><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=22EBF7&amp;size=25&amp;center=false&amp;lines=Hey there!+Anslem+here;Flutter Enthusiast...;Mobile app development enthusiast...;Redditor...;Somewhat an opensource contributor...">
- 
  <p>- <i>A IT undergraduate student and a aspiring software developer with good problem-solving skills. Fully able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif">
