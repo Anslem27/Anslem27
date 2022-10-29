@@ -44,7 +44,7 @@
 <br>
 <br>
 
-## <p align="center">Contribution Graph
+<!-- ## <p align="center">Contribution Graph
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Anslem27&amp;custom_title=Recent%20Contribution%20Graph&amp;bg_color=ffffff&amp;color=aab2fe&amp;line=6498b0&amp;point=FFFFFF&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;hide_title=true" align="center" width="70%"></p><br>
 
@@ -56,7 +56,7 @@
  
 </td>
 
-</tr>
+</tr> -->
 
 ### <p align="center"><b align="center">Visitors Count</b>
 
