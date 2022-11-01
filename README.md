@@ -2,16 +2,10 @@
 
  <p>- <i>A IT undergraduate student and a aspiring software developer with good problem-solving skills. Fully able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif">
-
-<ul><li><p>🔧 I’m currently working on ...Gem Music.</p></li><li><p>💡 I’m curious about ...Mobile app development and Gaming.</p></li><li><p>📖 I’m currently learning ...Next js.</p></li><li><p>❄️ I’m looking to collaborate on ...Open Source Projects.</p></li><li><p>📫 Reach me via email <a href="mailto:...anslembarn@gmail.com">...anslembarn@gmail.com</a>.</p></li></ul><hr>
+<ul><li><p>🔧 I’m currently working on ...Gem Music.</p></li><li><p>💡 I’m curious about ...Mobile app development and Gaming.</p></li><li><p>📫 Reach me via email <a href="mailto:...anslembarn@gmail.com">...anslembarn@gmail.com</a>.</p></li></ul><hr>
 
 <br>
 
-<table width="100%">
-
- <tbody><tr>
-    <td width="20%">
      
 ## 🛠️ Skills
 <!-- Languages -->
@@ -36,8 +30,7 @@
 </p>
      
   
- </tr>
-</tbody></table>
+
 
 <br>
 
