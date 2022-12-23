@@ -2,7 +2,7 @@
 
  <p>- <i>An IT undergraduate student and a aspiring software developer with good problem-solving skills. Fully able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
-<ul><li><p>🔧 I’m currently working on ...Gem Music.</p></li><li><p>💡 I’m curious about ...Mobile app development and Gaming.</p></li><li><p>📫 Reach me via email <a href="mailto:...anslembarn@gmail.com">...anslembarn@gmail.com</a>.</p></li></ul><hr>
+<ul><li><p>🔧 I’m currently working on Gem Music and Nitro Game launcher</p></li><li><p>💡 I’m curious about ...Mobile app development and Gaming.</p></li><li><p>📫 Reach me via email <a href="mailto:...anslembarn@gmail.com">...anslembarn@gmail.com</a>.</p></li></ul><hr>
 
 <br>
 
