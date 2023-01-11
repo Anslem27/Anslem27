@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Mobile App Development
 - 📚 I'm an Junior Developer
 - 📫 How to reach me: 
-	[E-mail](mailto://anslembarn@gmail.com) , [Twitter](https://twitter.com/anslemAnsy/) , [Reddit](https://www.reddit.com/user/Infamous-Date-355/) , 
+	[E-mail](mailto://anslembarn@gmail.com) , [Twitter](https://twitter.com/anslemAnsy/) , [Reddit](https://www.reddit.com/user/Infamous-Date-355/) , [Medium](https://medium.com/@anslembarn)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Anslem27&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
