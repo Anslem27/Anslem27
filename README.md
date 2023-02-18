@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on multiple Freelance projects
 - 🌱 I’m currently learning Mobile App Development
-- 📚 I'm an Junior Developer
-- 📫 How to reach me: 
+- 📫 Reach me: 
 	[E-mail](mailto://anslembarn@gmail.com) , [Twitter](https://twitter.com/anslemAnsy/) , [Reddit](https://www.reddit.com/user/Infamous-Date-355/) , [Medium](https://medium.com/@anslemAnsy)
 
 
