@@ -1,6 +1,6 @@
 <h1>Hi! am Anslem <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
-I'm a computer science student and a self-taught programmer. I'm currently learning Android development and web development with Next.js.
+hi there...
 
 ![](https://komarev.com/ghpvc/?username=Anslem27)
 
