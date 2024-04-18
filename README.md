@@ -12,4 +12,3 @@ hi there...
   
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@anslemAnsy)
 [![E-mail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anslembarn@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/anslemAnsy/)
